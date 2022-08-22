@@ -1,0 +1,700 @@
+Aug 17 03:47 : exception: Failed to open '/home/citz/.config/mpd/state': No such file or directory
+Aug 17 03:47 : config: option 'options' on line 10 was not recognized
+Aug 17 03:47 : update: added /Naif-Mobil Balap.mp3
+Aug 17 03:47 : update: added /Rocker Juga Manusia.mp3
+Aug 17 03:47 : update: added /Naif-Air Dan Api.mp3
+Aug 17 03:47 : update: added /Naif-Aku Rela.mp3
+Aug 17 03:47 : update: added /Naif - Benci Untuk Mencinta.mp3
+Aug 17 03:47 : update: added /Naif-Jikalau.mp3
+Aug 17 03:47 : update: added /Naif -piknik 72.mp3
+Aug 17 03:47 : update: added /TULUS - Hati-Hati di Jalan.mp3
+Aug 17 03:58 : player: played "TULUS - Hati-Hati di Jalan.mp3"
+Aug 17 04:00 : player: played "Rocker Juga Manusia.mp3"
+Aug 17 04:02 : player: played "Naif -piknik 72.mp3"
+Aug 17 04:06 : player: played "Naif-Mobil Balap.mp3"
+Aug 17 04:09 : player: played "Naif-Jikalau.mp3"
+Aug 17 04:10 : update: removing Naif - Benci Untuk Mencinta.mp3
+Aug 17 04:10 : update: removing Naif-Aku Rela.mp3
+Aug 17 04:10 : update: removing Naif-Jikalau.mp3
+Aug 17 04:10 : update: removing Naif-Mobil Balap.mp3
+Aug 17 04:10 : update: removing Naif -piknik 72.mp3
+Aug 17 04:10 : update: removing Naif-Air Dan Api.mp3
+Aug 17 04:10 : update: removing Rocker Juga Manusia.mp3
+Aug 17 04:10 : update: added /Flanella - Bila Engkau.mp3
+Aug 17 04:10 : update: added /Sunset - And I Hope.mp3
+Aug 17 04:10 : update: added /Wali Band - Aku Sakit.mp3
+Aug 17 04:10 : update: added /SOULJAH - Tak Selalu (Official Music Video).mp3
+Aug 17 04:10 : update: added /Fana Merah Jambu.mp3
+Aug 17 04:10 : update: added /Club Eighties - Dari Hati.mp3
+Aug 17 04:10 : update: added /Vagetoz - Kehadiranmu.mp3
+Aug 17 04:10 : update: added NikzZ/Nikz - Bahagia HQ 2.mp3
+Aug 17 04:10 : update: added NikzZ/Runik-Narsis.mp3
+Aug 17 04:10 : update: added NikzZ/After Shift - Sudahlah Aku Pergi.mp3
+Aug 17 04:10 : update: added NikzZ/Nikz - Selamat Tinggal (HQ).mp3
+Aug 17 04:10 : update: added NikzZ/Nikz - Aku Ingin Dia HQ.mp3
+Aug 17 04:10 : update: added /Wali - Takkan Pisah.mp3
+Aug 17 04:10 : update: added /Utopia - Hujan - Official Video.mp3
+Aug 17 04:10 : update: added /DHYO HAW - Ada Aku Disini (Official Lyric Video).mp3
+Aug 17 04:10 : update: added PIANO/Yiruma (이루마) - River Flows in You.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 04:10 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 04:10 : update: added PIANO/alip ba ta - balinese (cover solo piano).mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 04:10 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 04:10 : update: added PIANO/Ludovico Einaudi - Nuvole Bianche.mp3
+Aug 17 04:10 : update: added PIANO/alip ba ta - infected (cover solo piano).mp3
+Aug 17 04:10 : update: added PIANO/alip ba ta - Pagebluk (cover solo piano).mp3
+Aug 17 04:10 : update: added /Wonder Boys - Suatu Hari (Official Music Video).mp3
+Aug 17 04:10 : update: added /Irwansyah - Pecinta Wanita.mp3
+Aug 17 04:10 : update: added /Iwan Fals - Aku Bukan Pilihan.mp3
+Aug 17 04:10 : update: added NAIF/Naif - Karena Kamu Cuma Satu --.mp3
+Aug 17 04:10 : update: added NAIF/Naif - Air dan Api..mp3
+Aug 17 04:10 : update: added NAIF/Rocker Juga Manusia.mp3
+Aug 17 04:10 : update: added NAIF/Naif - Dimana Aku Disini.mp3
+Aug 17 04:10 : update: added NAIF/Naif - Piknik 72.mp3
+Aug 17 04:10 : update: added NAIF/Naif - Aku Rela.mp3
+Aug 17 04:10 : update: added NAIF/Naif - Mobil Balap.mp3
+Aug 17 04:10 : update: added NAIF/Naif - Benci Untuk Mencinta.mp3
+Aug 17 04:10 : update: added NAIF/Naif-Jikalau.mp3
+Aug 17 04:10 : update: added /Kangen Band - Pujaan Hati.mp3
+Aug 17 04:10 : update: added /Souljah - Kuingin Kau Mati Saja.mp3
+Aug 17 04:10 : update: added /Armada - Harusnya Aku.mp3
+Aug 17 04:10 : update: added /The Rain - Dengar Bisikku.mp3
+Aug 17 04:10 : update: added /JAGOSTU - Mau Tak Mau.mp3
+Aug 17 04:10 : update: added /Virgoun - Surat Cinta Untuk Starla.mp3
+Aug 17 04:10 : update: added /Club Eighties - cinta dan luka.mp3
+Aug 17 04:10 : update: added /Tata Janeeta - Penipu Hati [Official Video Lirik].mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 04:10 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 04:10 : update: added /Flanella - Aku Bisa.mp3
+Aug 17 04:10 : update: added /Virgoun - Bukti.mp3
+Aug 17 04:10 : update: added /Wali Band - Baik Baik Sayang.mp3
+Aug 17 04:14 : player: played "Armada - Harusnya Aku.mp3"
+Aug 17 04:15 : player: played "JAGOSTU - Mau Tak Mau.mp3"
+Aug 17 04:18 : player: played "JAGOSTU - Mau Tak Mau.mp3"
+Aug 17 04:19 : player: played "TULUS - Hati-Hati di Jalan.mp3"
+Aug 17 04:23 : player: played "TULUS - Hati-Hati di Jalan.mp3"
+Aug 17 04:23 : player: played "TULUS - Hati-Hati di Jalan.mp3"
+Aug 17 04:23 : player: played "JAGOSTU - Mau Tak Mau.mp3"
+Aug 17 04:23 : player: played "JAGOSTU - Mau Tak Mau.mp3"
+Aug 17 04:23 : player: played "JAGOSTU - Mau Tak Mau.mp3"
+Aug 17 04:24 : player: played "NikzZ/After Shift - Sudahlah Aku Pergi.mp3"
+Aug 17 04:24 : player: played "NikzZ/After Shift - Sudahlah Aku Pergi.mp3"
+Aug 17 04:25 : player: played "NAIF/Naif - Mobil Balap.mp3"
+Aug 17 04:29 : player: played "JAGOSTU - Mau Tak Mau.mp3"
+Aug 17 04:32 : player: played "Club Eighties - Dari Hati.mp3"
+Aug 17 04:32 : player: played "NikzZ/After Shift - Sudahlah Aku Pergi.mp3"
+Aug 17 04:33 : player: played "NikzZ/After Shift - Sudahlah Aku Pergi.mp3"
+Aug 17 04:37 : player: played "Tata Janeeta - Penipu Hati [Official Video Lirik].mp3"
+Aug 17 04:39 : player: played "NAIF/Naif - Aku Rela.mp3"
+Aug 17 04:44 : player: played "Virgoun - Bukti.mp3"
+Aug 17 04:47 : player: played "NAIF/Naif - Piknik 72.mp3"
+Aug 17 04:47 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 04:52 : player: played "Vagetoz - Kehadiranmu.mp3"
+Aug 17 04:55 : player: played "NAIF/Naif-Jikalau.mp3"
+Aug 17 04:55 : player: played "SOULJAH - Tak Selalu (Official Music Video).mp3"
+Aug 17 05:00 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:00 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:05 : player: played "Flanella - Aku Bisa.mp3"
+Aug 17 05:09 : player: played "Sunset - And I Hope.mp3"
+Aug 17 05:09 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 05:19 : player: played "Fana Merah Jambu.mp3"
+Aug 17 05:23 : player: played "SOULJAH - Tak Selalu (Official Music Video).mp3"
+Aug 17 05:28 : update: removing NikzZ/Runik-Narsis.mp3
+Aug 17 05:28 : update: removing NikzZ/Nikz - Selamat Tinggal (HQ).mp3
+Aug 17 05:28 : update: removing NikzZ/Nikz - Bahagia HQ 2.mp3
+Aug 17 05:28 : update: removing NikzZ/Nikz - Aku Ingin Dia HQ.mp3
+Aug 17 05:28 : update: removing NikzZ/After Shift - Sudahlah Aku Pergi.mp3
+Aug 17 05:28 : update: removing NAIF/Naif-Jikalau.mp3
+Aug 17 05:28 : update: removing NAIF/Rocker Juga Manusia.mp3
+Aug 17 05:28 : update: removing NAIF/Naif - Piknik 72.mp3
+Aug 17 05:28 : update: removing NAIF/Naif - Mobil Balap.mp3
+Aug 17 05:28 : update: removing NAIF/Naif - Karena Kamu Cuma Satu --.mp3
+Aug 17 05:28 : update: removing NAIF/Naif - Dimana Aku Disini.mp3
+Aug 17 05:28 : update: removing NAIF/Naif - Benci Untuk Mencinta.mp3
+Aug 17 05:28 : update: removing NAIF/Naif - Aku Rela.mp3
+Aug 17 05:28 : update: removing NAIF/Naif - Air dan Api..mp3
+Aug 17 05:28 : update: removing Wonder Boys - Suatu Hari (Official Music Video).mp3
+Aug 17 05:28 : update: removing TULUS - Hati-Hati di Jalan.mp3
+Aug 17 05:28 : update: removing Tata Janeeta - Penipu Hati [Official Video Lirik].mp3
+Aug 17 05:28 : update: removing SOULJAH - Tak Selalu (Official Music Video).mp3
+Aug 17 05:28 : update: removing JAGOSTU - Mau Tak Mau.mp3
+Aug 17 05:28 : update: removing DHYO HAW - Ada Aku Disini (Official Lyric Video).mp3
+Aug 17 05:28 : update: removing PIANO/Yiruma (이루마) - River Flows in You.mp3
+Aug 17 05:28 : update: removing PIANO/Ludovico Einaudi - Nuvole Bianche.mp3
+Aug 17 05:28 : update: removing PIANO/alip ba ta - Pagebluk (cover solo piano).mp3
+Aug 17 05:28 : update: removing PIANO/alip ba ta - infected (cover solo piano).mp3
+Aug 17 05:28 : update: removing PIANO/alip ba ta - balinese (cover solo piano).mp3
+Aug 17 05:28 : update: added /Naif - Karena Kamu Cuma Satu --.mp3
+Aug 17 05:28 : update: added /Wonder Boys - Suatu Hari.mp3
+Aug 17 05:28 : update: added /The Changcuters - Racun Dunia.mp3
+Aug 17 05:28 : update: added /Goliath - Masih Disini Masih Denganmu.mp3
+Aug 17 05:28 : update: added /Tata Janeeta - Penipu Hati.mp3
+Aug 17 05:28 : update: added /Dhyo Haw - Ada Aku Disini.mp3
+Aug 17 05:28 : update: added /Runik-Narsis.mp3
+Aug 17 05:28 : update: added /Beage - Sendiri Lagi.mp3
+Aug 17 05:28 : update: added /After Shift - Sudahlah Aku Pergi.mp3
+Aug 17 05:28 : update: added /Yiruma (이루마) - River Flows in You.mp3
+Aug 17 05:28 : update: added /Budi Doremi - DoReMi.mp3
+Aug 17 05:28 : update: added /Nikz - Bahagia.mp3
+Aug 17 05:28 : update: added /Nikz - Selamat Tinggal.mp3
+Aug 17 05:28 : update: added /Tulus - Hati-Hati di Jalan.mp3
+Aug 17 05:28 : update: added /Naif - Air dan Api..mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:28 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:28 : update: added /Bagindas - Suka Sama Kamu.mp3
+Aug 17 05:28 : update: added /Sembilan - Ada Bayangmu.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:28 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:28 : update: added /alip ba ta - balinese (cover solo piano).mp3
+Aug 17 05:28 : update: added /Jagostu - Mau Tak Mau.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:28 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:28 : update: added /Ludovico Einaudi - Nuvole Bianche.mp3
+Aug 17 05:28 : update: added /Rocker Juga Manusia.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:28 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:28 : update: added /Numata - Raja Jatuh Cinta.mp3
+Aug 17 05:28 : update: added /The Changcuters - Hijrah ke London.mp3
+Aug 17 05:28 : update: added /alip ba ta - infected (cover solo piano).mp3
+Aug 17 05:28 : update: added /Naif - Jikalau.mp3
+Aug 17 05:28 : update: added /The Changcuters - I Love U Bibeh.mp3
+Aug 17 05:28 : update: added /Naif - Dimana Aku Disini.mp3
+Aug 17 05:28 : update: added /SOULJAH - Tak Selalu.mp3
+Aug 17 05:28 : update: added /Naif - Piknik 72.mp3
+Aug 17 05:28 : update: added /alip ba ta - Pagebluk (cover solo piano).mp3
+Aug 17 05:28 : update: added /Naif - Aku Rela.mp3
+Aug 17 05:28 : update: added /Naif - Mobil Balap.mp3
+Aug 17 05:28 : update: added /Naif - Benci Untuk Mencinta.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:28 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:28 : update: added /Armada - Pergi Pagi Pulang Pagi.mp3
+Aug 17 05:28 : update: added /Nikz - Aku Ingin Dia.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:28 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:28 : update: added /The Changcuters - main serong.mp3
+Aug 17 05:28 : player: played "After Shift - Sudahlah Aku Pergi.mp3"
+Aug 17 05:33 : player: played "Wali Band - Aku Sakit.mp3"
+Aug 17 05:37 : player: played "Souljah - Kuingin Kau Mati Saja.mp3"
+Aug 17 05:41 : player: played "Iwan Fals - Aku Bukan Pilihan.mp3"
+Aug 17 05:41 : player: played "Wali Band - Baik Baik Sayang.mp3"
+Aug 17 05:41 : player: played "The Rain - Dengar Bisikku.mp3"
+Aug 17 05:41 : player: played "Flanella - Bila Engkau.mp3"
+Aug 17 05:41 : player: played "Kangen Band - Pujaan Hati.mp3"
+Aug 17 05:41 : player: played "Vagetoz - Kehadiranmu.mp3"
+Aug 17 05:45 : player: played "Utopia - Hujan - Official Video.mp3"
+Aug 17 05:50 : player: played "Armada - Harusnya Aku.mp3"
+Aug 17 05:52 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 05:52 : player: played "Flanella - Bila Engkau.mp3"
+Aug 17 05:52 : player: played "Kangen Band - Pujaan Hati.mp3"
+Aug 17 05:52 : player: played "After Shift - Sudahlah Aku Pergi.mp3"
+Aug 17 05:52 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:52 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:52 : player: played "alip ba ta - infected (cover solo piano).mp3"
+Aug 17 05:52 : player: played "Vagetoz - Kehadiranmu.mp3"
+Aug 17 05:52 : player: played "alip ba ta - Pagebluk (cover solo piano).mp3"
+Aug 17 05:52 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:52 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:56 : player: played "Naif - Benci Untuk Mencinta.mp3"
+Aug 17 05:56 : player: played "Wali Band - Baik Baik Sayang.mp3"
+Aug 17 05:56 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:56 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:56 : player: played "Wali Band - Aku Sakit.mp3"
+Aug 17 05:58 : update: added /Blackout - Selalu Ada (Official Audio).mp3
+Aug 17 05:58 : update: added /Blackout - Resiko Orang Cantik lirik.mp3
+Aug 17 05:58 : update: added INS/INS - ELECTRO HOUSE 1.mp3
+Aug 17 05:58 : update: added INS/Yngwie Malmsteen Rock Ballad Backing Track 63 Bpm Highest Quality.mp3
+Aug 17 05:58 : update: added INS/INS - Chess Music.mp3
+Aug 17 05:58 : update: added INS/INS Techno Mix 2017 .mp3
+Aug 17 05:58 : update: added INS/Sad ballad in C# minor - Guitar solo improvisation.mp3
+Aug 17 05:58 : update: added INS/INS  - Hikaru's 2020 ELECTRO SWING.mp3
+Aug 17 05:58 : update: added INS/INS - Relaxing JAZZ.mp3
+Aug 17 05:58 : update: added INS/INS Gentle Night RAIN, Rain Sounds.mp3
+Aug 17 05:58 : update: added INS/INS - TECHNO MIX 2019 - CARTOON HIGH TRIP.mp3
+Aug 17 05:58 : update: added INS/INS - ELECTRO HOUSE 2.mp3
+Aug 17 05:58 : update: added /Seurieus - Rocker Juga Manusia.mp3
+Aug 17 05:58 : update: added /Blackout - Goodbye.mp3
+Aug 17 05:58 : update: added /Seurieus -  Bandung 19 Oktober.mp3
+Aug 17 05:58 : update: added PIANO/Yiruma (이루마) - River Flows in You.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:58 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:58 : update: added PIANO/alip ba ta - balinese (cover solo piano).mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:58 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:58 : update: added PIANO/Ludovico Einaudi - Nuvole Bianche.mp3
+Aug 17 05:58 : update: added PIANO/alip ba ta - infected (cover solo piano).mp3
+Aug 17 05:58 : update: added PIANO/alip ba ta - Pagebluk (cover solo piano).mp3
+Aug 17 05:58 : update: added /Blackout - Letoy.mp3
+Aug 17 05:58 : update: added /Seurieus - Kecuali Dia.mp3
+Aug 17 05:58 : update: added /Seuriues - Sendiri itu indah (OST Jomblo).mp3
+Aug 17 05:58 : update: added /Candil - 7.30.mp3
+Aug 17 05:59 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:59 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 05:59 : player: played "PIANO/alip ba ta - infected (cover solo piano).mp3"
+Aug 17 05:59 : player: played "The Rain - Dengar Bisikku.mp3"
+Aug 17 05:59 : player: played "PIANO/alip ba ta - Pagebluk (cover solo piano).mp3"
+Aug 17 05:59 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 05:59 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 06:00 : update: added INS/Yiruma (이루마) - River Flows in You.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 06:00 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 06:00 : update: added INS/Ludovico Einaudi - Nuvole Bianche.mp3
+Aug 17 06:00 : update: removing PIANO/Yiruma (이루마) - River Flows in You.mp3
+Aug 17 06:00 : update: removing PIANO/Ludovico Einaudi - Nuvole Bianche.mp3
+Aug 17 06:00 : update: removing PIANO/alip ba ta - Pagebluk (cover solo piano).mp3
+Aug 17 06:00 : update: removing PIANO/alip ba ta - infected (cover solo piano).mp3
+Aug 17 06:00 : update: removing PIANO/alip ba ta - balinese (cover solo piano).mp3
+Aug 17 06:26 : player: played "INS/Yiruma (이루마) - River Flows in You.mp3"
+Aug 17 06:26 : exception: Failed to decode /home/citz/Music/INS/Yngwie Malmsteen Rock Ballad Backing Track 63 Bpm Highest Quality.mp3; Failed to open '/home/citz/Music/INS/Yngwie Malmsteen Rock Ballad Backing Track 63 Bpm Highest Quality.mp3': No such file or directory
+Aug 17 06:26 : player: played "INS/Yngwie Malmsteen Rock Ballad Backing Track 63 Bpm Highest Quality.mp3"
+Aug 17 06:26 : player: played "alip ba ta - Pagebluk (cover solo piano).mp3"
+Aug 17 06:26 : update: removing INS/Sad ballad in C# minor - Guitar solo improvisation.mp3
+Aug 17 06:26 : update: removing INS/Yngwie Malmsteen Rock Ballad Backing Track 63 Bpm Highest Quality.mp3
+Aug 17 06:26 : player: played "INS/Yiruma (이루마) - River Flows in You.mp3"
+Aug 17 06:26 : update: removing INS/Yiruma (이루마) - River Flows in You.mp3
+Aug 17 06:27 : exception: Failed to decode /home/citz/Music/After Shift - Sudahlah Aku Pergi.mp3; Failed to open '/home/citz/Music/After Shift - Sudahlah Aku Pergi.mp3': No such file or directory
+Aug 17 06:27 : player: played "After Shift - Sudahlah Aku Pergi.mp3"
+Aug 17 06:27 : exception: Failed to decode /home/citz/Music/After Shift - Sudahlah Aku Pergi.mp3; Failed to open '/home/citz/Music/After Shift - Sudahlah Aku Pergi.mp3': No such file or directory
+Aug 17 06:27 : exception: Failed to decode /home/citz/Music/INS/INS Gentle Night RAIN, Rain Sounds.mp3; Failed to open '/home/citz/Music/INS/INS Gentle Night RAIN, Rain Sounds.mp3': No such file or directory
+Aug 17 06:27 : player: played "INS/INS Gentle Night RAIN, Rain Sounds.mp3"
+Aug 17 06:27 : player: played "Flanella - Bila Engkau.mp3"
+Aug 17 06:29 : player: played "Kangen Band - Pujaan Hati.mp3"
+Aug 17 06:29 : player: played "Wali Band - Aku Sakit.mp3"
+Aug 17 06:29 : exception: Failed to decode /home/citz/Music/INS/INS - Chess Music.mp3; Failed to open '/home/citz/Music/INS/INS - Chess Music.mp3': No such file or directory
+Aug 17 06:29 : player: played "Vagetoz - Kehadiranmu.mp3"
+Aug 17 06:29 : player: played "INS/INS - Chess Music.mp3"
+Aug 17 06:29 : exception: Failed to decode /home/citz/Music/INS/INS - Chess Music.mp3; Failed to open '/home/citz/Music/INS/INS - Chess Music.mp3': No such file or directory
+Aug 17 06:29 : player: played "INS/INS - Chess Music.mp3"
+Aug 17 06:29 : player: played "Kangen Band - Pujaan Hati.mp3"
+Aug 17 06:29 : exception: Failed to decode /home/citz/Music/INS/INS - ELECTRO HOUSE 1.mp3; Failed to open '/home/citz/Music/INS/INS - ELECTRO HOUSE 1.mp3': No such file or directory
+Aug 17 06:29 : player: played "Wali Band - Baik Baik Sayang.mp3"
+Aug 17 06:29 : player: played "INS/INS - ELECTRO HOUSE 1.mp3"
+Aug 17 06:29 : exception: Failed to decode /home/citz/Music/INS/INS - ELECTRO HOUSE 1.mp3; Failed to open '/home/citz/Music/INS/INS - ELECTRO HOUSE 1.mp3': No such file or directory
+Aug 17 06:29 : player: played "INS/INS - ELECTRO HOUSE 1.mp3"
+Aug 17 06:29 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 06:29 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 06:34 : player: played "Souljah - Kuingin Kau Mati Saja.mp3"
+Aug 17 06:38 : exception: Failed to decode /home/citz/Music/alip ba ta - balinese (cover solo piano).mp3; Failed to open '/home/citz/Music/alip ba ta - balinese (cover solo piano).mp3': No such file or directory
+Aug 17 06:38 : player: played "Naif - Benci Untuk Mencinta.mp3"
+Aug 17 06:38 : player: played "alip ba ta - balinese (cover solo piano).mp3"
+Aug 17 06:38 : exception: Failed to decode /home/citz/Music/alip ba ta - balinese (cover solo piano).mp3; Failed to open '/home/citz/Music/alip ba ta - balinese (cover solo piano).mp3': No such file or directory
+Aug 17 06:38 : player: played "alip ba ta - balinese (cover solo piano).mp3"
+Aug 17 06:42 : player: played "Iwan Fals - Aku Bukan Pilihan.mp3"
+Aug 17 06:42 : player: played "The Rain - Dengar Bisikku.mp3"
+Aug 17 06:42 : exception: Failed to decode /home/citz/Music/PIANO/Ludovico Einaudi - Nuvole Bianche.mp3; Failed to open '/home/citz/Music/PIANO/Ludovico Einaudi - Nuvole Bianche.mp3': No such file or directory
+Aug 17 06:42 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 06:42 : player: played "PIANO/Ludovico Einaudi - Nuvole Bianche.mp3"
+Aug 17 06:42 : exception: Failed to decode /home/citz/Music/PIANO/Ludovico Einaudi - Nuvole Bianche.mp3; Failed to open '/home/citz/Music/PIANO/Ludovico Einaudi - Nuvole Bianche.mp3': No such file or directory
+Aug 17 06:42 : player: played "PIANO/Ludovico Einaudi - Nuvole Bianche.mp3"
+Aug 17 06:47 : player: played "Club Eighties - cinta dan luka.mp3"
+Aug 17 06:51 : exception: Failed to decode /home/citz/Music/alip ba ta - infected (cover solo piano).mp3; Failed to open '/home/citz/Music/alip ba ta - infected (cover solo piano).mp3': No such file or directory
+Aug 17 06:52 : player: played "Virgoun - Surat Cinta Untuk Starla.mp3"
+Aug 17 06:52 : player: played "alip ba ta - infected (cover solo piano).mp3"
+Aug 17 06:52 : exception: Failed to decode /home/citz/Music/alip ba ta - infected (cover solo piano).mp3; Failed to open '/home/citz/Music/alip ba ta - infected (cover solo piano).mp3': No such file or directory
+Aug 17 06:52 : player: played "alip ba ta - infected (cover solo piano).mp3"
+Aug 17 06:52 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 06:52 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to decode /home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3; Failed to open '/home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3': No such file or directory
+Aug 17 10:03 : player: played "alip ba ta - Pagebluk (cover solo piano).mp3"
+Aug 17 10:03 : exception: Failed to decode /home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3; Failed to open '/home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3': No such file or directory
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : player: problems opening audio device while playing "Armada - Harusnya Aku.mp3"
+Aug 17 10:03 : exception: Failed to decode /home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3; Failed to open '/home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3': No such file or directory
+Aug 17 10:03 : player: played "alip ba ta - Pagebluk (cover solo piano).mp3"
+Aug 17 10:03 : exception: Failed to decode /home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3; Failed to open '/home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3': No such file or directory
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : player: problems opening audio device while playing "Club Eighties - cinta dan luka.mp3"
+Aug 17 10:03 : exception: Failed to decode /home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3; Failed to open '/home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3': No such file or directory
+Aug 17 10:03 : player: played "alip ba ta - Pagebluk (cover solo piano).mp3"
+Aug 17 10:03 : exception: Failed to decode /home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3; Failed to open '/home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3': No such file or directory
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : player: problems opening audio device while playing "Naif - Benci Untuk Mencinta.mp3"
+Aug 17 10:03 : exception: Failed to decode /home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3; Failed to open '/home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3': No such file or directory
+Aug 17 10:03 : player: played "alip ba ta - Pagebluk (cover solo piano).mp3"
+Aug 17 10:03 : exception: Failed to decode /home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3; Failed to open '/home/citz/Music/alip ba ta - Pagebluk (cover solo piano).mp3': No such file or directory
+Aug 17 10:03 : exception: Failed to decode /home/citz/Music/INS/INS - Chess Music.mp3; Failed to open '/home/citz/Music/INS/INS - Chess Music.mp3': No such file or directory
+Aug 17 10:03 : player: played "INS/INS - Chess Music.mp3"
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : player: problems opening audio device while playing "Vagetoz - Kehadiranmu.mp3"
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:03 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:04 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:04 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:05 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:05 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:05 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:05 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:05 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:05 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:05 : player: played "Vagetoz - Kehadiranmu.mp3"
+Aug 17 10:05 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:05 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:05 : player: problems opening audio device while playing "Vagetoz - Kehadiranmu.mp3"
+Aug 17 10:05 : player: played "Vagetoz - Kehadiranmu.mp3"
+Aug 17 10:05 : exception: Failed to decode /home/citz/Music/INS/INS - ELECTRO HOUSE 1.mp3; Failed to open '/home/citz/Music/INS/INS - ELECTRO HOUSE 1.mp3': No such file or directory
+Aug 17 10:06 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:06 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:06 : player: played "Vagetoz - Kehadiranmu.mp3"
+Aug 17 10:06 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:06 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:06 : player: problems opening audio device while playing "Vagetoz - Kehadiranmu.mp3"
+Aug 17 10:07 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:07 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:07 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:07 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:07 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:07 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:07 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:07 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:08 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:08 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:08 : player: played "Vagetoz - Kehadiranmu.mp3"
+Aug 17 10:08 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:08 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:08 : player: problems opening audio device while playing "Vagetoz - Kehadiranmu.mp3"
+Aug 17 10:08 : player: played "Vagetoz - Kehadiranmu.mp3"
+Aug 17 10:08 : update: removing INS/Ludovico Einaudi - Nuvole Bianche.mp3
+Aug 17 10:08 : update: removing INS/INS Techno Mix 2017 .mp3
+Aug 17 10:08 : update: removing INS/INS Gentle Night RAIN, Rain Sounds.mp3
+Aug 17 10:08 : update: removing INS/INS - TECHNO MIX 2019 - CARTOON HIGH TRIP.mp3
+Aug 17 10:08 : update: removing INS/INS - Relaxing JAZZ.mp3
+Aug 17 10:08 : update: removing INS/INS - ELECTRO HOUSE 2.mp3
+Aug 17 10:08 : update: removing INS/INS - ELECTRO HOUSE 1.mp3
+Aug 17 10:08 : update: removing INS/INS - Chess Music.mp3
+Aug 17 10:08 : update: removing INS/INS  - Hikaru's 2020 ELECTRO SWING.mp3
+Aug 17 10:08 : update: removing alip ba ta - Pagebluk (cover solo piano).mp3
+Aug 17 10:08 : update: removing alip ba ta - infected (cover solo piano).mp3
+Aug 17 10:08 : update: removing alip ba ta - balinese (cover solo piano).mp3
+Aug 17 10:08 : update: removing After Shift - Sudahlah Aku Pergi.mp3
+Aug 17 10:08 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 10:08 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 10:08 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:08 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:08 : player: problems opening audio device while playing "Wali Band - Baik Baik Sayang.mp3"
+Aug 17 10:08 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 10:08 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 10:08 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:08 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : player: problems opening audio device while playing "Wali - Takkan Pisah.mp3"
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:09 : player: problems opening audio device while playing "Wali - Takkan Pisah.mp3"
+Aug 17 10:11 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:11 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:11 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 10:11 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:11 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:11 : player: problems opening audio device while playing "Wali - Takkan Pisah.mp3"
+Aug 17 10:11 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:11 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : player: problems opening audio device while playing "Wali - Takkan Pisah.mp3"
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:12 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 10:14 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:14 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:14 : player: problems opening audio device while playing "Wali - Takkan Pisah.mp3"
+Aug 17 10:14 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:14 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:14 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:14 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:15 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 10:15 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:15 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:15 : player: problems opening audio device while playing "Wali - Takkan Pisah.mp3"
+Aug 17 10:16 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 10:18 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 10:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 10:18 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:18 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:18 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 10:18 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:18 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:18 : player: problems opening audio device while playing "Wali - Takkan Pisah.mp3"
+Aug 17 10:19 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:19 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:19 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:19 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:20 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:20 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:20 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 10:20 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:20 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:20 : player: problems opening audio device while playing "Wali - Takkan Pisah.mp3"
+Aug 17 10:21 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:21 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:21 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 10:21 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:21 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:21 : player: problems opening audio device while playing "Wali - Takkan Pisah.mp3"
+Aug 17 10:28 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 10:28 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:28 : exception: Failed to open "My Pulse Output" (pulse); failed to connect: Connection refused
+Aug 17 10:28 : player: problems opening audio device while playing "Wali - Takkan Pisah.mp3"
+Aug 17 10:28 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 10:29 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 10:29 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 10:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 10:30 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 10:30 : player: played "Wali Band - Baik Baik Sayang.mp3"
+Aug 17 15:38 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 15:43 : player: played "Virgoun - Surat Cinta Untuk Starla.mp3"
+Aug 17 15:43 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 15:43 : player: played "Flanella - Bila Engkau.mp3"
+Aug 17 15:43 : player: played "Kangen Band - Pujaan Hati.mp3"
+Aug 17 15:43 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 15:43 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 15:49 : player: played "Fana Merah Jambu.mp3"
+Aug 17 15:53 : player: played "Sunset - And I Hope.mp3"
+Aug 17 15:58 : player: played "Club Eighties - cinta dan luka.mp3"
+Aug 17 15:58 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 15:58 : player: played "Vagetoz - Kehadiranmu.mp3"
+Aug 17 15:58 : player: played "Kangen Band - Pujaan Hati.mp3"
+Aug 17 15:58 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 15:58 : player: played "Wali Band - Aku Sakit.mp3"
+Aug 17 15:58 : player: played "Wali Band - Baik Baik Sayang.mp3"
+Aug 17 15:58 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 15:58 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 16:03 : player: played "Flanella - Aku Bisa.mp3"
+Aug 17 16:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 16:05 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 16:05 : player: played "Flanella - Bila Engkau.mp3"
+Aug 17 16:05 : exception: Failed to decode /home/citz/Music/Wali - Takkan Pisah.mp3; Failed to open '/home/citz/Music/Wali - Takkan Pisah.mp3': No such file or directory
+Aug 17 16:05 : player: played "Wali - Takkan Pisah.mp3"
+Aug 17 16:05 : exception: Failed to decode /home/citz/Music/Wali - Takkan Pisah.mp3; Failed to open '/home/citz/Music/Wali - Takkan Pisah.mp3': No such file or directory
+Aug 17 16:05 : player: played "Vagetoz - Kehadiranmu.mp3"
+Aug 17 16:05 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 16:08 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 17 16:08 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 17 16:09 : player: played "Utopia - Hujan - Official Video.mp3"
+Aug 17 16:12 : player: played "Armada - Pergi Pagi Pulang Pagi.mp3"
+Aug 17 16:12 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 16:17 : player: played "Virgoun - Bukti.mp3"
+Aug 17 16:23 : player: played "Fana Merah Jambu.mp3"
+Aug 17 16:28 : player: played "Sunset - And I Hope.mp3"
+Aug 17 16:28 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 16:28 : player: played "The Rain - Dengar Bisikku.mp3"
+Aug 17 16:53 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 16:53 : player: played "Virgoun - Surat Cinta Untuk Starla.mp3"
+Aug 17 17:10 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 17 17:10 : player: played "Virgoun - Surat Cinta Untuk Starla.mp3"
+Aug 18 04:02 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 18 04:02 : player: played "Sunset - And I Hope.mp3"
+Aug 18 04:54 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 18 04:59 : player: played "Sunset - And I Hope.mp3"
+Aug 18 05:04 : player: played "Virgoun - Bukti.mp3"
+Aug 18 05:08 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 18 05:12 : player: played "Naif - Benci Untuk Mencinta.mp3"
+Aug 18 05:12 : player: played "The Rain - Dengar Bisikku.mp3"
+Aug 18 05:12 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 18 05:12 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 18 05:15 : player: played "Flanella - Aku Bisa.mp3"
+Aug 18 05:18 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 18 05:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 18 05:18 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 18 05:21 : player: played "Flanella - Aku Bisa.mp3"
+Aug 19 04:36 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 19 04:36 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 19 04:36 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 19 04:36 : player: played "The Rain - Dengar Bisikku.mp3"
+Aug 19 04:36 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 19 04:36 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 19 04:36 : exception: Failed to decode /home/citz/Music/Wali - Takkan Pisah.mp3; Failed to open '/home/citz/Music/Wali - Takkan Pisah.mp3': No such file or directory
+Aug 19 04:36 : player: played "Wali - Takkan Pisah.mp3"
+Aug 19 04:36 : exception: Failed to decode /home/citz/Music/Wali - Takkan Pisah.mp3; Failed to open '/home/citz/Music/Wali - Takkan Pisah.mp3': No such file or directory
+Aug 19 04:36 : exception: Failed to decode /home/citz/Music/Wali Band - Aku Sakit.mp3; Failed to open '/home/citz/Music/Wali Band - Aku Sakit.mp3': No such file or directory
+Aug 19 04:37 : player: played "Flanella - Bila Engkau.mp3"
+Aug 19 04:37 : player: played "Wali Band - Aku Sakit.mp3"
+Aug 19 04:37 : exception: Failed to decode /home/citz/Music/Wali Band - Aku Sakit.mp3; Failed to open '/home/citz/Music/Wali Band - Aku Sakit.mp3': No such file or directory
+Aug 19 04:37 : player: played "Wali Band - Aku Sakit.mp3"
+Aug 19 04:37 : exception: Failed to decode /home/citz/Music/Wali Band - Baik Baik Sayang.mp3; Failed to open '/home/citz/Music/Wali Band - Baik Baik Sayang.mp3': No such file or directory
+Aug 19 04:37 : player: played "Wali Band - Baik Baik Sayang.mp3"
+Aug 19 04:37 : exception: Failed to decode /home/citz/Music/Kangen Band - Pujaan Hati.mp3; Failed to open '/home/citz/Music/Kangen Band - Pujaan Hati.mp3': No such file or directory
+Aug 19 04:37 : player: played "Kangen Band - Pujaan Hati.mp3"
+Aug 19 04:37 : player: played "Armada - Pergi Pagi Pulang Pagi.mp3"
+Aug 19 04:37 : player: played "Virgoun - Surat Cinta Untuk Starla.mp3"
+Aug 20 12:47 : update: removing Kangen Band - Pujaan Hati.mp3
+Aug 20 12:47 : update: removing Wali Band - Baik Baik Sayang.mp3
+Aug 20 12:47 : update: removing Wali Band - Aku Sakit.mp3
+Aug 20 12:47 : update: removing Wali - Takkan Pisah.mp3
+Aug 20 12:47 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:47 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 20 12:47 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 20 12:47 : player: played "Armada - Pergi Pagi Pulang Pagi.mp3"
+Aug 20 12:47 : player: played "Bagindas - Suka Sama Kamu.mp3"
+Aug 20 12:47 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:47 : player: played "Beage - Sendiri Lagi.mp3"
+Aug 20 12:48 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:48 : player: played "Budi Doremi - DoReMi.mp3"
+Aug 20 12:48 : player: played "Yiruma (이루마) - River Flows in You.mp3"
+Aug 20 12:48 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:48 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:48 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 20 12:48 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 20 12:48 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:48 : player: played "Flanella - Bila Engkau.mp3"
+Aug 20 12:48 : player: played "Goliath - Masih Disini Masih Denganmu.mp3"
+Aug 20 12:48 : player: played "The Changcuters - Racun Dunia.mp3"
+Aug 20 12:48 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:48 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 20 12:48 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 20 12:48 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:49 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:49 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:49 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:49 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 20 12:49 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 20 12:49 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 20 12:49 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 20 12:49 : player: played "Sembilan - Ada Bayangmu.mp3"
+Aug 20 12:50 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:50 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:50 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 20 12:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 20 12:50 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:50 : player: played "The Changcuters - I Love U Bibeh.mp3"
+Aug 20 12:50 : player: played "The Changcuters - main serong.mp3"
+Aug 20 12:50 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Aug 20 12:50 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Aug 20 12:50 : player: played "The Changcuters - Racun Dunia.mp3"
+Aug 20 12:50 : player: played "The Rain - Dengar Bisikku.mp3"
+Aug 20 12:50 : player: played "The Rain - Dengar Bisikku.mp3"
+Aug 20 12:50 : player: played "The Changcuters - Racun Dunia.mp3"
+Aug 20 12:50 : exception: Failed to decode /home/citz/Music/Budi Doremi - DoReMi.mp3; Failed to open '/home/citz/Music/Budi Doremi - DoReMi.mp3': No such file or directory
+Aug 20 12:50 : player: played "The Rain - Dengar Bisikku.mp3"
+Aug 20 12:50 : player: played "Budi Doremi - DoReMi.mp3"
+Aug 20 12:50 : exception: Failed to decode /home/citz/Music/Budi Doremi - DoReMi.mp3; Failed to open '/home/citz/Music/Budi Doremi - DoReMi.mp3': No such file or directory
+Aug 20 12:50 : player: played "Budi Doremi - DoReMi.mp3"
+Aug 20 12:50 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:50 : player: played "Vagetoz - Kehadiranmu.mp3"
+Aug 20 12:50 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:51 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:52 : player: played "Naif - Jikalau.mp3"
+Aug 20 12:54 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 12:54 : player: played "Naif - Jikalau.mp3"
+Aug 20 13:32 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 20 13:35 : player: played "Naif - Jikalau.mp3"
+Aug 20 13:35 : player: played "Candil - 7.30.mp3"
+Aug 21 00:35 : update: removing Armada - Pergi Pagi Pulang Pagi.mp3
+Aug 21 00:35 : update: removing Runik-Narsis.mp3
+Aug 21 00:35 : update: removing Vagetoz - Kehadiranmu.mp3
+Aug 21 00:35 : update: removing The Rain - Dengar Bisikku.mp3
+Aug 21 00:35 : update: removing The Changcuters - Racun Dunia.mp3
+Aug 21 00:35 : update: removing The Changcuters - I Love U Bibeh.mp3
+Aug 21 00:35 : update: removing Sembilan - Ada Bayangmu.mp3
+Aug 21 00:35 : update: removing Goliath - Masih Disini Masih Denganmu.mp3
+Aug 21 00:35 : update: removing Flanella - Bila Engkau.mp3
+Aug 21 00:35 : update: removing Budi Doremi - DoReMi.mp3
+Aug 21 00:35 : update: removing Beage - Sendiri Lagi.mp3
+Aug 21 00:35 : update: removing Bagindas - Suka Sama Kamu.mp3
+Aug 21 00:35 : update: added /Nikz-Narsis.mp3
+Aug 21 01:19 : player: played "Seuriues - Sendiri itu indah (OST Jomblo).mp3"
+Aug 22 07:50 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 22 07:50 : player: played "Yiruma (이루마) - River Flows in You.mp3"
+Aug 22 07:54 : player: played "Tulus - Hati-Hati di Jalan.mp3"
+Aug 22 07:57 : player: played "The Changcuters - main serong.mp3"
+Aug 22 07:57 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Aug 22 07:59 : player: played "Naif - Piknik 72.mp3"

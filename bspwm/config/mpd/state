@@ -1,0 +1,58 @@
+sw_volume: 64
+audio_device_state:1:alsa for audio soundcard
+audio_device_state:1:my_fifo
+state: stop
+current: 43
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Yiruma (이루마) - River Flows in You.mp3
+1:Armada - Harusnya Aku.mp3
+2:Blackout - Goodbye.mp3
+3:Blackout - Letoy.mp3
+4:Blackout - Resiko Orang Cantik lirik.mp3
+5:Blackout - Selalu Ada (Official Audio).mp3
+6:Candil - 7.30.mp3
+7:Club Eighties - cinta dan luka.mp3
+8:Club Eighties - Dari Hati.mp3
+9:Dhyo Haw - Ada Aku Disini.mp3
+10:Fana Merah Jambu.mp3
+11:Flanella - Aku Bisa.mp3
+12:Iwan Fals - Aku Bukan Pilihan.mp3
+13:Jagostu - Mau Tak Mau.mp3
+14:Ludovico Einaudi - Nuvole Bianche.mp3
+15:Naif - Air dan Api..mp3
+16:Naif - Aku Rela.mp3
+17:Naif - Benci Untuk Mencinta.mp3
+18:Naif - Dimana Aku Disini.mp3
+19:Naif - Karena Kamu Cuma Satu --.mp3
+20:Naif - Mobil Balap.mp3
+21:Nikz - Aku Ingin Dia.mp3
+22:Nikz - Bahagia.mp3
+23:Nikz - Selamat Tinggal.mp3
+24:Numata - Raja Jatuh Cinta.mp3
+25:Seurieus -  Bandung 19 Oktober.mp3
+26:Seurieus - Kecuali Dia.mp3
+27:Seurieus - Rocker Juga Manusia.mp3
+28:Seuriues - Sendiri itu indah (OST Jomblo).mp3
+29:Souljah - Kuingin Kau Mati Saja.mp3
+30:SOULJAH - Tak Selalu.mp3
+31:Sunset - And I Hope.mp3
+32:Tata Janeeta - Penipu Hati.mp3
+33:The Changcuters - Hijrah ke London.mp3
+34:The Changcuters - main serong.mp3
+35:Tulus - Hati-Hati di Jalan.mp3
+36:Utopia - Hujan - Official Video.mp3
+37:Virgoun - Bukti.mp3
+38:Virgoun - Surat Cinta Untuk Starla.mp3
+39:Wonder Boys - Suatu Hari.mp3
+40:Irwansyah - Pecinta Wanita.mp3
+41:Rocker Juga Manusia.mp3
+42:Naif - Jikalau.mp3
+43:Naif - Piknik 72.mp3
+playlist_end
