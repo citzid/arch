@@ -3,6 +3,7 @@
 #Made by @citz_id
 username=$(id -u -n 1000)
 mkdir -p home/$username/.config
+mkdir -p /home/$username/.config/{bspwm,sxhkd}
 
 ##################################################################################
 timedatectl set-ntp true
