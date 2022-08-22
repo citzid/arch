@@ -16,6 +16,7 @@
 ;
 ;==========================================================
 
+
 include-file = $HOME/.config/polybar/dark.conf
 
 ########################################################################################
@@ -43,9 +44,10 @@ fixed-center = true
 ;font-1 = "Roboto:size=11:weight=bold;2"
 ;font-2 = "Noto Sans:size=11;1"
 
-font-0 = "Play:size=10:antialias=true"
+font-0 = "rissole:size=10:antialias=false"
 font-1 = "Iosevka:size=20:antialias=true;3"
 font-2 = "Terminuss:size=11:antialias=true;1"
+font-3 = "waffle:size=14:antialias=false;0"
 
 background = ${colors.background}
 foreground = ${colors.foreground}
@@ -53,11 +55,11 @@ line-size = 2
 line-color = ${colors.underline}
 ;border-size = 8
 border-color = #00000000
-padding-left = 2
-padding-right = 2
+padding-left = 1
+padding-right = 1
 ;margin-top = 2
 ;margin-bottom = -5
-wm-restack = bspwm
+;wm-restack = bspwm
 enable-ipc = true
 ;tray-position = right
 ;tray-padding = 2
@@ -65,7 +67,7 @@ cursor-click = pointer
 cursor-scroll = ns-resize
 
 module-margin-left = 1
-module-margin-right = 2
+module-margin-right = 0
 
 modules-left = bspwm
 modules-center = mpd spotify previous playpause next
@@ -304,7 +306,7 @@ interval = 2
 format-prefix = " "
 format-prefix-foreground = ${colors.foreground-alt}
 ;format-underline = #4bffdc
-label = ﬙ %percentage_used%%
+label = %percentage_used%%
 
 
 
@@ -343,7 +345,7 @@ date-alt = "%Y-%m-%d"
 time = %H:%M
 time-alt = %H:%M:%S
 
-format-prefix = 
+format-prefix =
 format-prefix-foreground = ${colors.foreground-alt}
 ;format-underline = ${colors.secondary}
 
