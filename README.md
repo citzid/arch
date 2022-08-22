@@ -9,7 +9,7 @@
   2. firefox
   3. thunar
   4. polybar
-  5. sddm
+  5. sddm ufw 
   6. lxappearance zsh oh-my-zsh mpd ncmpcpp conky
   7. unzip ranger arandr xfce4-settings nitrogen
 
