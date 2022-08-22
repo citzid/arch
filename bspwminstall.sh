@@ -12,7 +12,7 @@ chmod +x *
 echo -e "\e[1;36m Installing dependencies.sh \e[0m"
 ./dependencies.sh
 echo -e "\e[1;42m Your Dependencies Installed \e[0m"
-
+sleep 3
 
 
 ##################################################################################
@@ -20,7 +20,7 @@ echo -e "\e[1;42m Your Dependencies Installed \e[0m"
 echo -e "\e[1;36m Installing YAY AUR \e[0m"
 ./yay.sh
 echo -e "\e[1;42m Your YAY Installed \e[0m"
-
+sleep 3
 
 
 ##################################################################################
@@ -28,6 +28,7 @@ echo -e "\e[1;42m Your YAY Installed \e[0m"
 echo -e "\e[1;36m Installing pkg.sh \e[0m"
 ./pkg.sh
 echo -e "\e[1;42m Your Packages Installed \e[0m"
+sleep 3
 
 
 ##################################################################################
@@ -35,6 +36,7 @@ echo -e "\e[1;42m Your Packages Installed \e[0m"
 #echo -e "\e[1;36m Installing ALACRITTY \e[0m"
 #./alacritty.sh
 #echo -e "\e[1;42m Alacritty installed \e[0m"
+sleep 3
 
 
 ##################################################################################
@@ -42,6 +44,7 @@ echo -e "\e[1;42m Your Packages Installed \e[0m"
 echo -e "\e[1;36m Installing BSPWM \e[0m"
 ./bspwm.sh
 echo -e "\e[1;42m BSPWM Window Manager Installed \e[0m"
+sleep 3
 
 
 ##################################################################################
@@ -49,6 +52,7 @@ echo -e "\e[1;42m BSPWM Window Manager Installed \e[0m"
 echo -e "\e[1;36m Installing POLYBAR \e[0m"
 ./polybar.sh
 echo -e "\e[1;42m Polybar installed \e[0m"
+sleep 3
 
 
 ##################################################################################
@@ -56,6 +60,7 @@ echo -e "\e[1;42m Polybar installed \e[0m"
 echo -e "\e[1;36m Installing ROFI \e[0m"
 ./rofi.sh
 echo -e "\e[1;42m Rofi installed \e[0m"
+sleep 3
 
 
 
@@ -64,7 +69,7 @@ echo -e "\e[1;42m Rofi installed \e[0m"
 echo -e "\e[1;36m Installing RESOURCES\e[0m"
 ./resources.sh
 echo -e "\e[1;42m Your resources installed \e[0m"
-
+sleep 3
 
 
 ##################################################################################
@@ -72,7 +77,7 @@ echo -e "\e[1;42m Your resources installed \e[0m"
 echo -e "\e[1;36m Installing ZSH & OH MY ZSH\e[0m"
 ./zshohmy.sh
 echo -e "\e[1;42m Your ZSH & oh my zsh installed \e[0m"
-
+sleep 3
 
 
 ##################################################################################
@@ -80,7 +85,7 @@ echo -e "\e[1;42m Your ZSH & oh my zsh installed \e[0m"
 echo -e "\e[1;36m Installing DUNST\e[0m"
 ./dunst.sh
 echo -e "\e[1;42m Your dunst notification installed \e[0m"
-
+sleep 3
 
 
 ##################################################################################
@@ -88,7 +93,7 @@ echo -e "\e[1;42m Your dunst notification installed \e[0m"
 echo -e "\e[1;36m Installing PICOM COMPOSITOR\e[0m"
 ./picom.sh
 echo -e "\e[1;42m Your Picom Compositor installed \e[0m"
-
+sleep 3
 
 ##################################################################################
 ##INSTALL DISPLAY MANAGER
@@ -96,7 +101,7 @@ echo -e "\e[1;36m Installing SDDM \e[0m"
 ./sddm.sh
 echo -e "\e[1;42m Display Manager Installed \e[0m"
 cd ..
-
+sleep 3
 
 ##NOTE##
 # i comment the rest script because not run normally. you can install manual.
