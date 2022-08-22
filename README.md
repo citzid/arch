@@ -1,9 +1,3 @@
-
-# [NOTE]
-
-> DON'T install  **~~I3~~** and **~~SWAY~~** because is still under construction.<br
-> /> I3-GAPS & BSPWM wm run normal.<br /> <br />
-
 > This is online install not offline. Thats mean you need INTERNET CONNECTION
 
 <img src="https://github.com/citzid/arch/blob/main/bspwm/ksnip_20220822-103319.png"
@@ -37,10 +31,10 @@
       ```
    <br />
 3. Choose your favorite Window Manager<br />
-   **SWAY**<br />
+   **BSPWM**<br />
       ```bash
       sudo chmod +x bspwminstall.sh
-      sudo ./swayinstall.sh
+      sudo ./bspwminstall.sh
       ```
    **I3-GAPS**<br />
       ```bash
