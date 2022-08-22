@@ -32,10 +32,10 @@ sudo pacman -S -y bspwm sxhkd
 mkdir -p /home/$username/.config/{bspwm,sxhkd}
 
 ## Copy Template configuration ##
-cd /home/$username/arch/bspwm/sh
-cp bspwmrc /home/$username/.config/bspwm/
-cp sxhkdrc /home/$username/.config/sxhkd/
-cp .xinitrc /home/$username/
+#cd /home/$username/arch/bspwm/sh
+#cp bspwmrc /home/$username/.config/bspwm/
+#cp sxhkdrc /home/$username/.config/sxhkd/
+#cp .xinitrc /home/$username/
 
 ## move original config example for backup ##
 cp /usr/share/doc/bspwm/examples/bspwmrc /home/$username/.config/bspwm/bspwmrc.bak
