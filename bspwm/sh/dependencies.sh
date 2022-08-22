@@ -2,15 +2,15 @@
 #RUN this after installing base Debian with no GUI and install git
 #Made by @citz_id
 username=$(id -u -n 1000)
-#mkdir -p home/$username/.config
+mkdir -p home/$username/.config
 
 ##################################################################################
 timedatectl set-ntp true
 sudo pacman -Syyu
 
 ## Display manager
-#sudo pacman -S sddm
-#sudo systemctl enable sddm
+sudo pacman -S sddm
+sudo systemctl enable sddm
 
 
 
@@ -20,6 +20,7 @@ sudo pacman -S unzip unrar tar ranger conky htop neofetch
 
 ## AUDIO
 sudo pacman -S pulseaudio pulseaudio-alsa alsa-utils pavucontrol
+
 #mpd
 mkdir -p home/$username/.config/mpd
 yay -Sy mpd ncmpc mpc gmpc glurp
@@ -27,6 +28,7 @@ sudo cp -R /etc/mpd.conf /home/$username/.config/mpd/mpd.conf
 chmod +x /home/$username/.config/mpd/mpd.conf
 /etc/rc.d/mpd create-db
 /etc/rc.d/mpd start
+
 pacman -Sy ncmpc mpc gmpc glurp
 
 ## Installing Codecs and plugins
@@ -45,8 +47,8 @@ sudo pacman -S intel-ucode
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 # AMD
-#sudo pacman -S linux-firmware
-#sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo pacman -S linux-firmware
+sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 
 ## Activate user-level units
