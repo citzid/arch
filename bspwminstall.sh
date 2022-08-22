@@ -41,11 +41,14 @@ echo -e "\e[1;36m Installing POLYBAR \e[0m"
 ./polybar.sh
 echo -e "\e[1;42m Polybar installed \e[0m"
 
+
 ##################################################################################
 ##INSTALL MENU LAUNCHER
 echo -e "\e[1;36m Installing ROFI \e[0m"
 ./rofi.sh
 echo -e "\e[1;42m Rofi installed \e[0m"
+
+
 
 ##################################################################################
 ##INSTALL RESOURCES GIT
@@ -53,12 +56,38 @@ echo -e "\e[1;36m Installing RESOURCES\e[0m"
 ./resources.sh
 echo -e "\e[1;42m Your resources installed \e[0m"
 
+
+
+##################################################################################
+##INSTALL ZSH & OH MY ZSH
+echo -e "\e[1;36m Installing ZSH & OH MY ZSH\e[0m"
+./zshohmy.sh
+echo -e "\e[1;42m Your resources installed \e[0m"
+
+
+
+##################################################################################
+##INSTALL DUNST
+echo -e "\e[1;36m Installing DUNST\e[0m"
+./dunst.sh
+echo -e "\e[1;42m Your resources installed \e[0m"
+
+
+
+##################################################################################
+##INSTALL PICOM
+echo -e "\e[1;36m Installing PICOM COMPOSITOR\e[0m"
+./picom.sh
+echo -e "\e[1;42m Your resources installed \e[0m"
+
+
 ##################################################################################
 ##INSTALL DISPLAY MANAGER
 echo -e "\e[1;36m Installing SDDM \e[0m"
 ./sddm.sh
 echo -e "\e[1;42m Display Manager Installed \e[0m"
 cd ..
+
 
 ##NOTE##
 # i comment the rest script because not run normally. you can install manual.
