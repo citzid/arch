@@ -4,6 +4,10 @@
 username=$(id -u -n 1000)
 
 sudo yay -S sddm
+mv /home/$username/arch/bspwm/home/sddm.conf /etc/sddm.conf
+git clone https://github.com/gabretana/simplicity-sddm-theme.git
+mv simplicity-sddm-theme /usr/share/sddm/themes
+
 sudo systemctl enable sddm
 
 cp -R /home/$username/arch/bspwm/home/conky /home/$username/.conky
