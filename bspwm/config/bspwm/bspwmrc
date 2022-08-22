@@ -1,17 +1,12 @@
 #!/bin/sh
 
 ###########################################################################
-pkill sxhkd
 pgrep -x sxhkd > /dev/null || sxhkd &
 #feh --bg-fill ~/.config/bg/linux.jpg &
-pkill conky
 conky -c $HOME/.conky/.conkyrc &
 nitrogen --restore &
-numlockx & picom & 
-pkill dunst
-dunst & 
-mpd &
-pkill polybar
+numlockx & picom &
+dunst & mpd &
 $HOME/.config/polybar/launch.sh &
 
 
@@ -73,5 +68,5 @@ export _JAVA_AWT_WM_NONREPARENTING=1
 xset fp+ ~/.fonts/misc &
 
 # network applet
-nm-applet &
+#nm-applet &
 
