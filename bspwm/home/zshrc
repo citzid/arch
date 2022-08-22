@@ -47,6 +47,12 @@ fi
 ## Prompt theme extension ##
 ZSH_THEME=""
 
+plugins=(
+    git
+    zsh-autosuggestions
+    zsh-syntax-highlighting
+)
+
 # Virtualenv support
 
 #function virtual_env_prompt () {
@@ -341,6 +347,7 @@ ZSH_THEME=""
 #vimpm ()      { vim `perldoc -l $1 | sed -e 's/pod$/pm/'` }
 #vimhelp ()    { vim -c "help $1" -c on -c "au! VimEnter *" }
 
-source /home/citz/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /home/$USER/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /home/$USER/.oh-my-zsh/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 ## END OF FILE #################################################################
