@@ -14,6 +14,15 @@ echo -e "\e[1;36m Installing dependencies.sh \e[0m"
 echo -e "\e[1;42m Your Dependencies Installed \e[0m"
 
 
+
+##################################################################################
+##INSTALL YAY AUR HELPER
+echo -e "\e[1;36m Installing YAY AUR \e[0m"
+./yay.sh
+echo -e "\e[1;42m Your YAY Installed \e[0m"
+
+
+
 ##################################################################################
 ##INSTALL PACKAGES
 echo -e "\e[1;36m Installing pkg.sh \e[0m"
@@ -23,16 +32,16 @@ echo -e "\e[1;42m Your Packages Installed \e[0m"
 
 ##################################################################################
 ##INSTALL TERMINAL EMULATOR
-echo -e "\e[1;36m Installing ALACRITTY \e[0m"
-./alacritty.sh
-echo -e "\e[1;42m Alacritty installed \e[0m"
+#echo -e "\e[1;36m Installing ALACRITTY \e[0m"
+#./alacritty.sh
+#echo -e "\e[1;42m Alacritty installed \e[0m"
 
 
 ##################################################################################
 ##INSTALL WINDOW MANAGER
 echo -e "\e[1;36m Installing BSPWM \e[0m"
 ./bspwm.sh
-echo -e "\e[1;42m Window Manager Installed \e[0m"
+echo -e "\e[1;42m BSPWM Window Manager Installed \e[0m"
 
 
 ##################################################################################
@@ -62,7 +71,7 @@ echo -e "\e[1;42m Your resources installed \e[0m"
 ##INSTALL ZSH & OH MY ZSH
 echo -e "\e[1;36m Installing ZSH & OH MY ZSH\e[0m"
 ./zshohmy.sh
-echo -e "\e[1;42m Your resources installed \e[0m"
+echo -e "\e[1;42m Your ZSH & oh my zsh installed \e[0m"
 
 
 
@@ -70,7 +79,7 @@ echo -e "\e[1;42m Your resources installed \e[0m"
 ##INSTALL DUNST
 echo -e "\e[1;36m Installing DUNST\e[0m"
 ./dunst.sh
-echo -e "\e[1;42m Your resources installed \e[0m"
+echo -e "\e[1;42m Your dunst notification installed \e[0m"
 
 
 
@@ -78,7 +87,7 @@ echo -e "\e[1;42m Your resources installed \e[0m"
 ##INSTALL PICOM
 echo -e "\e[1;36m Installing PICOM COMPOSITOR\e[0m"
 ./picom.sh
-echo -e "\e[1;42m Your resources installed \e[0m"
+echo -e "\e[1;42m Your Picom Compositor installed \e[0m"
 
 
 ##################################################################################
