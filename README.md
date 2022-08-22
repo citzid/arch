@@ -3,19 +3,25 @@
 <img src="https://github.com/citzid/arch/blob/main/bspwm/ksnip_20220822-103319.png"
      alt="citz arch"
      style="float: left; margin-right: 10px;" />
+     
+     
+     
+     
+     
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### AUTO INSTALL PACKAGES
   1. YAY-AUR kitty firefox thunar polybar sddm ufw picom pulseaudio pipewire
   2. lxappearance zsh oh-my-zsh mpd ncmpcpp conky rofi gnome-screenshot
   3. unzip ranger arandr nitrogen feh
-  
 ## You can install VSCODE,ALACRITTY,BRAVE BROWSER by editing /bspwm/sh/pkg.sh
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-## I asume you have been installed ARCH base with no GUI.<br />
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-### Lets Get started<br />
+#Lets Get started<br />
+## I asume you have been installed ARCH base with no GUI.<br />
 1. First install git
       ```bash
       sudo su
@@ -35,6 +41,10 @@
 
 DONE 
 then ### **REBOOT**
+
+
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ### key bind : 
