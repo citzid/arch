@@ -7,14 +7,14 @@ mkdir -p home/$username/.config
 ##################################################################################
 ##Install terminal emulator
 
-#sudo pacman -S -y kitty
+sudo pacman -S -y kitty
 #sudo pacman -S -y terminator
 #sudo pacman -S -y urxvt
 
 
 ##################################################################################
 ##Install browser
-#sudo pacman -S -y firefox-esr
+sudo pacman -S -y firefox-esr
 #sudo pacman -S -y chromium
 
 ## BRAVE BROWSER INSTALL
@@ -38,7 +38,7 @@ sudo pacman -S -y thunar
 ##################################################################################
 ##Install Launcher
 
-#sudo pacman -S -y rofi
+sudo pacman -S -y rofi
 #sudo pacman -S -y wofi
 #sudo pacman -S -y dmenu
 
@@ -47,7 +47,7 @@ sudo pacman -S -y thunar
 ##Install editor
 
 sudo pacman -S -y geany
-#sudo pacman -S -y vim
+sudo pacman -S -y vim
 #sudo pacman -S -y neovim
 
 ## VS-CODE
@@ -65,7 +65,7 @@ sudo pacman -S -y geany
 ##################################################################################
 ##Install wallpaper manager
 
-#sudo pacman -S -y nitrogen
+sudo pacman -S -y nitrogen
 sudo pacman -S -y feh
 #sudo pacman -S -y variety
 
@@ -77,9 +77,9 @@ sudo sudo pacman -S -y gnome-screenshot
 sudo pacman -S -y lxappearance
 
 ## Download Nordic Theme
-#cd /usr/share/themes/
-#git clone https://github.com/EliverLara/Nordic.git
-#cd /home/$username
+cd /usr/share/themes/
+git clone https://github.com/EliverLara/Nordic.git
+cd /home/$username
 
 ## Install font Fura Code Nerd Font variant needed
 wget https://github.com/ryanoasis/nerd-fonts/releases/download/v1.1.0/FiraCode.zip
@@ -87,9 +87,5 @@ unzip FiraCode.zip -d /usr/share/fonts
 #wget https://github.com/ryanoasis/nerd-fonts/releases/download/v1.1.0/Meslo.zip
 #unzip Meslo.zip -d /usr/share/fonts
 fc-cache -vf
-
-##################################################################################
-##Install Audio setting
-#sudo pacman -S -y pulseaudio alsa-utils pavucontrol
 
 
