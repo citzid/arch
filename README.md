@@ -4,15 +4,12 @@
      alt="citz arch"
      style="float: left; margin-right: 10px;" />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-### AUTO INSTALL PKG (You can edit on pkg.sh & from WMinstall.sh)<br />
-  1. kitty
-  2. firefox
-  3. thunar
-  4. polybar
-  5. sddm ufw 
-  6. lxappearance zsh oh-my-zsh mpd ncmpcpp conky
-  7. unzip ranger arandr xfce4-settings nitrogen
-
+### AUTO INSTALL PACKAGES
+  1. kitty firefox thunar polybar sddm ufw 
+  2. lxappearance zsh oh-my-zsh mpd ncmpcpp conky
+  3. unzip ranger arandr xfce4-settings nitrogen
+  
+## You can install VSCODE,ALACRITTY,BRAVE BROWSER by editing /bspwm/sh/pkg.sh
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ## I asume you have been installed ARCH base with no GUI.<br />
