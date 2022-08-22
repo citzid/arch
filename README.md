@@ -27,18 +27,14 @@
       git clone https://github.com/citzid/arch.git && cd arch
       ```
    <br />
-3. Choose your favorite Window Manager<br />
-   **BSPWM**<br />
+3. RUN INSTALLATION <br />
       ```bash
       sudo chmod +x bspwminstall.sh
       sudo ./bspwminstall.sh
       ```
-   **I3-GAPS**<br />
-      ```bash
-      sudo chmod +x i3gapsinstall.sh
-      sudo ./i3install.sh
-      ```
-      then ### **REBOOT**
+
+DONE 
+then ### **REBOOT**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ### key bind : 
