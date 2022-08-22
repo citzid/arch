@@ -1,11 +1,17 @@
 #!/bin/sh
 
 ###########################################################################
+pkill sxhkd
 pgrep -x sxhkd > /dev/null || sxhkd &
 #feh --bg-fill ~/.config/bg/linux.jpg &
+pkill conky
 conky -c $HOME/.conky/.conkyrc &
 nitrogen --restore &
-numlockx & picom & dunst & mpd &
+numlockx & picom & 
+pkill dunst
+dunst & 
+mpd &
+pkill polybar
 $HOME/.config/polybar/launch.sh &
 
 
@@ -33,7 +39,7 @@ bspc rule -a twitter 	           desktop='^9' follow=on focus=on
 bspc config border_width                1
 bspc config window_gap                  5
 bspc config top_padding                 0
-bspc config left_padding                 2
+bspc config left_padding                2
 bspc config right_padding               2
 
 bspc config bottom_padding              1
@@ -61,3 +67,11 @@ bspc config remove_unplugged_monitors   true
 ###########################################################################
 wmname LG3D
 export _JAVA_AWT_WM_NONREPARENTING=1
+
+###########################################################################
+# Load bitmap font
+xset fp+ ~/.fonts/misc &
+
+# network applet
+nm-applet &
+
