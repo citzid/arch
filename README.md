@@ -5,22 +5,22 @@
      style="float: left; margin-right: 10px;" />
      
      
-     
+
      
      
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-### AUTO INSTALL PACKAGES
+## AUTO INSTALL PACKAGES
   1. YAY-AUR kitty firefox thunar polybar sddm ufw picom pulseaudio pipewire
   2. lxappearance zsh oh-my-zsh mpd ncmpcpp conky rofi gnome-screenshot
   3. unzip ranger arandr nitrogen feh
-## You can install VSCODE,ALACRITTY,BRAVE BROWSER by editing /bspwm/sh/pkg.sh
+### You can install VSCODE,ALACRITTY,BRAVE BROWSER by editing /bspwm/sh/pkg.sh
 
-
+<br /><br /><br />
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-#Lets Get started<br />
+# Lets Get started<br />
 ## I asume you have been installed ARCH base with no GUI.<br />
 1. First install git
       ```bash
@@ -39,11 +39,11 @@
       sudo ./bspwminstall.sh
       ```
 
-DONE 
-then ### **REBOOT**
+# DONE 
+> ## If not automaticaly redirect to login page please reboot manually
 
 
-
+<br /><br /><br />
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -59,6 +59,7 @@ then ### **REBOOT**
 
 
 
+<br /><br /><br />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # NOTE : 
