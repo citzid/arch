@@ -5,9 +5,9 @@
      style="float: left; margin-right: 10px;" />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### AUTO INSTALL PACKAGES
-  1. kitty firefox thunar polybar sddm ufw 
-  2. lxappearance zsh oh-my-zsh mpd ncmpcpp conky
-  3. unzip ranger arandr xfce4-settings nitrogen
+  1. kitty firefox thunar polybar sddm ufw picom pulseaudio pipewire
+  2. lxappearance zsh oh-my-zsh mpd ncmpcpp conky rofi gnome-screenshot
+  3. unzip ranger arandr nitrogen feh
   
 ## You can install VSCODE,ALACRITTY,BRAVE BROWSER by editing /bspwm/sh/pkg.sh
 
