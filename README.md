@@ -1,13 +1,20 @@
-> This is online install not offline. Thats mean you need INTERNET CONNECTION
+> This is online install not offline. Thats mean you need INTERNET CONNECTION <br />
+> You can use usb tethering from your phone if you dont have wired internet/driver for your wifi dongle. <br />
+> test your connection with "ping google.com" (press 'ctrl+c' to stop ping) <br />
+<br />
+<br />
 
 <img src="https://github.com/citzid/arch/blob/main/bspwm/ksnip_20220822-103319.png"
      alt="citz arch"
+     title="citz arch SCREENSHOT"
      style="float: left; margin-right: 10px;" />
      
      
 
      
-     
+<br />
+<br />
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ## AUTO INSTALL PACKAGES
   1. YAY-AUR kitty firefox thunar polybar sddm ufw picom pulseaudio pipewire
