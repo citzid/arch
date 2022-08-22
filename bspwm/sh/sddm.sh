@@ -3,7 +3,7 @@
 #Made by @citz_id
 username=$(id -u -n 1000)
 
-sudo pacman -S install -y sddm
+sudo yay -S sddm
 sudo systemctl enable sddm
 
 cp -R /home/$username/arch/bspwm/home/xinitrc /home/$username/.xinitrc
@@ -18,5 +18,6 @@ sudo chown -R $username:www-data ~/
 #this line to fix gparted wont run
 xhost +local:
 
-
-printf "\e[1;32mMade by @citz_id : Done!! please reboot.Type 'sudo reboot' enter.\e[0m\n"
+printf "\e[1;32mMade by @citz_id : Done!! If Not Redirect Automaticaly To Login Page. Please reboot.Type 'sudo reboot' enter.\e[0m\n"
+sleep 5s
+sudo systemctl start sddm
