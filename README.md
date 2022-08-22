@@ -96,5 +96,5 @@ Then save your profile. <br />
 5. write in last line <br />
 ```bash ~/.screenlayout/(your profilename).sh```
 
-DONE... you can start build your own bspwm debian from this.<br />
+DONE... you can start build your own bspwm ARCH after this.<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
