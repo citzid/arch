@@ -6,6 +6,7 @@ username=$(id -u -n 1000)
 sudo yay -S sddm
 sudo systemctl enable sddm
 
+cp -R /home/$username/arch/bspwm/home/conky /home/$username/.conky
 cp -R /home/$username/arch/bspwm/home/bitmapfonts /home/$username/.fonts
 cp -R /home/$username/arch/bspwm/home/xinitrc /home/$username/.xinitrc
 cp -R /home/$username/arch/bspwm/home/zshrc /home/$username/.zshrc
