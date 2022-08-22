@@ -112,3 +112,5 @@ Then save your profile. <br />
 
 DONE... you can start build your own bspwm ARCH after this.<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+NB : please open issue if you have some problems
