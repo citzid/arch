@@ -79,7 +79,11 @@ sudo pacman -S -y lxappearance
 ## Download Nordic Theme
 cd /usr/share/themes/
 git clone https://github.com/EliverLara/Nordic.git
-cd /home/$username
+cd /home/$username/arch/pkg
+tar xvzf /home/$username/arch/pkg/Kripton-v40.tar.xz
+mv /home/$username/arch/pkg/Kripton-v40 /usr/share/themes/
+
+cd /home/$username/arch/sh
 
 ## Install font Fura Code Nerd Font variant needed
 wget https://github.com/ryanoasis/nerd-fonts/releases/download/v1.1.0/FiraCode.zip
