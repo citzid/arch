@@ -77,13 +77,14 @@
 # NOTE : 
 
  - if error "user is not in the sudoers file". <br /> 
-   install git and   
-   sudo<br /> 
-     ```bash
+   install git and sudo<br /> 
+    ```bash
      sudo su   pacman -S sudo git
-     ```   <br /> 
+    ```   
+    <br /> 
    add your username below %sudo <br />  
-         ```vim etc/sudoers```    <br />
+         ```vim etc/sudoers```    
+         <br />
          example : <br />   
          ```johndoe <tab>    ALL=(ALL) NOPASSWD:ALL```   
    save, exit  
