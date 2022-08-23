@@ -5,8 +5,8 @@ username=$(id -u -n 1000)
 
 sudo pacman -S --needed sddm qt5-quickcontrols2 qt5-graphicaleffects qt5-quickcontrols
 mv /home/$username/arch/bspwm/home/sddm.conf /etc/sddm.conf
-git clone https://github.com/gabretana/simplicity-sddm-theme.git
-mv simplicity-sddm-theme /usr/share/sddm/themes
+tar xvzf /home/$username/arch/pkg/sugar-candy.tar.gz
+mv /home/$username/arch/pkg/sugar-candy /usr/share/sddm/themes
 
 sudo systemctl enable sddm
 
