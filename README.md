@@ -79,7 +79,8 @@
  - if error "user is not in the sudoers file". <br /> 
    install git and sudo<br /> 
     ```bash
-     sudo su   pacman -S sudo git
+     sudo su
+     pacman -S sudo git
     ```   
     <br /> 
    add your username below %sudo <br />  
