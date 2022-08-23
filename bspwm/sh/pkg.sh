@@ -80,7 +80,7 @@ sudo pacman -S -y lxappearance
 cd /usr/share/themes/
 git clone https://github.com/EliverLara/Nordic.git
 cd /home/$username/arch/pkg
-tar -xf /home/$username/arch/pkg/Kripton-v40.tar.xz
+tar xvzf /home/$username/arch/pkg/Kripton-v40.tar.gz
 sudo mv /home/$username/arch/pkg/Kripton-v40 /usr/share/themes/
 
 cd /home/$username/arch/sh
