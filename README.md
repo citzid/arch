@@ -25,8 +25,8 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ## AUTO INSTALL PACKAGES
-  1. YAY-AUR kitty firefox thunar polybar sddm ufw picom pulseaudio alsa pipewire
-  2. lxappearance zsh oh-my-zsh typewritten-prompt mpd ncmpcpp conky rofi gnome-screenshot
+  1. YAY-AUR kitty firefox thunar polybar sddm ufw picom pulseaudio alsa pipewire sugar-candy-login-themes
+  2. lxappearance zsh oh-my-zsh typewritten-prompt mpd ncmpcpp conky rofi shutter
   3. unzip ranger arandr nitrogen feh vis
 ### You can install VSCODE,ALACRITTY,BRAVE BROWSER by editing /bspwm/sh/pkg.sh
 
