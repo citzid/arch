@@ -79,7 +79,9 @@
  - if error "user is not in the sudoers file". <br /> 
    install git and   
    sudo<br /> 
-     ```bash   sudo su   pacman -S sudo git   ```   <br /> 
+     ```bash
+     sudo su   pacman -S sudo git
+     ```   <br /> 
    add your username below %sudo <br />  
          ```vim etc/sudoers```    <br />
          example : <br />   
@@ -87,9 +89,13 @@
    save, exit  
          
  - fix screen resolution on virtualbox <br />   open terminal   <br /> 
-   ```bash   xrandr   xrandr -s (your monitor resolution)   ```
+   ```bash
+   xrandr   
+   xrandr -s (your monitor resolution)
+   ```
    example:<br /> 	
    ```bash
+   
    xrandr -s 1920x1080 	         
    xrandr -s 1366x768
 
@@ -103,7 +109,7 @@ install arandr <br />
 ```bash
    sudo pacman -S arandr
    arandr
-   ```
+```
 
 Choose resolution of your monitor. apply.<br />
 Then save your profile. <br /> 
