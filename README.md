@@ -9,7 +9,15 @@
      title="citz arch SCREENSHOT"
      style="float: left; margin-right: 10px;" />
      
+<img src="https://github.com/citzid/arch/blob/main/bspwm/kitty.png"
+     alt="citz arch"
+     title="citz arch kitty"
+     style="float: left; margin-right: 10px;" />
      
+<img src="https://github.com/citzid/arch/blob/main/bspwm/conky.png"
+     alt="citz arch"
+     title="citz arch conky"
+     style="float: left; margin-right: 10px;" />
 
      
 <br />
@@ -22,10 +30,7 @@
   3. unzip ranger arandr nitrogen feh vis
 ### You can install VSCODE,ALACRITTY,BRAVE BROWSER by editing /bspwm/sh/pkg.sh
 
-<br /><br /><br />
-
-
-
+<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # Lets Get started<br />
 ## I asume you have been installed ARCH base with no GUI.<br />
@@ -50,10 +55,8 @@
 > ## If not automaticaly redirect to login page please reboot manually
 
 
-<br /><br /><br />
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
+<br />
+------------------------------------------------------------------------------------------------------------------------------------------
 ### key bind : 
 1. super + enter = kitty <br />
 2. super + b = firefox <br />
