@@ -3,7 +3,7 @@
 #Made by @citz_id
 username=$(id -u -n 1000)
 
-sudo yay -S sddm
+sudo pacman -S --needed sddm qt5‑graphicaleffects qt5‑quickcontrols2 qt5‑svg
 mv /home/$username/arch/bspwm/home/sddm.conf /etc/sddm.conf
 git clone https://github.com/gabretana/simplicity-sddm-theme.git
 mv simplicity-sddm-theme /usr/share/sddm/themes
