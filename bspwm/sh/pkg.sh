@@ -70,7 +70,7 @@ sudo pacman -S -y feh
 #sudo pacman -S -y variety
 
 ## Install GNOME SCREENSHOT TOOLS
-sudo sudo pacman -S -y gnome-screenshot
+sudo sudo pacman -S -y shutter
 
 ##################################################################################
 ##Install theme setting
