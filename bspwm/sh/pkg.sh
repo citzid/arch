@@ -81,7 +81,7 @@ cd /usr/share/themes/
 git clone https://github.com/EliverLara/Nordic.git
 cd /home/$username/arch/pkg
 tar -xf /home/$username/arch/pkg/Kripton-v40.tar.xz
-mv /home/$username/arch/pkg/Kripton-v40 /usr/share/themes/
+sudo mv /home/$username/arch/pkg/Kripton-v40 /usr/share/themes/
 
 cd /home/$username/arch/sh
 
