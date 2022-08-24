@@ -8,7 +8,7 @@ username=$(id -u -n 1000)
 #ZSH Install
 cd /home/$username
 
-sudo pacman -S zsh
+yes | sudo pacman -S zsh
 
 ##Oh My Zsh Install
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
