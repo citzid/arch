@@ -25,7 +25,7 @@ cd sxhkd && make && sudo make install
 cd ../bspwm && make && sudo make install
 cd ../xdo && make && sudo make install
 
-sudo pacman -S -y bspwm sxhkd
+yes | sudo pacman -S bspwm sxhkd
 
 ##################################################################################
 ## Configuration ##
