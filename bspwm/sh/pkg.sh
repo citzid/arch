@@ -74,7 +74,7 @@ yes | sudo sudo pacman -S shutter
 
 ##################################################################################
 ##Install theme setting
-yes | sudo pacman -S lxappearance
+yes | sudo pacman -S lxappearance viewnoir cli-visualizer
 
 ## Download Nordic Theme
 cd /usr/share/themes/
