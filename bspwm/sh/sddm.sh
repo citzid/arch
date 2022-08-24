@@ -3,7 +3,7 @@
 #Made by @citz_id
 username=$(id -u -n 1000)
 
-sudo pacman -S --needed sddm qt5-quickcontrols2 qt5-graphicaleffects qt5-quickcontrols
+yes | sudo pacman -S --needed sddm qt5-quickcontrols2 qt5-graphicaleffects qt5-quickcontrols
 mv /home/$username/arch/bspwm/home/sddm.conf /etc/sddm.conf
 tar xvzf /home/$username/arch/pkg/sugar-candy.tar.gz
 mv /home/$username/arch/pkg/sugar-candy /usr/share/sddm/themes
