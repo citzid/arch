@@ -7,48 +7,48 @@ mkdir -p home/$username/.config
 ##################################################################################
 ##Install terminal emulator
 
-sudo pacman -S -y kitty
-#sudo pacman -S -y terminator
-#sudo pacman -S -y urxvt
+yes | sudo pacman -S -y kitty
+#yes | sudo pacman -S -y terminator
+#yes | sudo pacman -S -y urxvt
 
 
 ##################################################################################
 ##Install browser
-sudo pacman -S -y firefox-esr
-#sudo pacman -S -y chromium
+yes | sudo pacman -S -y firefox-esr
+#yes | sudo pacman -S -y chromium
 
 ## BRAVE BROWSER INSTALL
-#sudo pacman -S software-properties-common apt-transport-https wget ca-certificates gnupg2 -y
+#yes | sudo pacman -S software-properties-common apt-transport-https wget ca-certificates gnupg2 -y
 #wget -O- https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg | sudo gpg --dearmor | sudo tee /usr/share/keyrings/brave-browser-archive-keyring.gpg
 #echo deb [arch=amd64 signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main | sudo tee /etc/apt/sources.list.d/brave-browser-release.list
 #sudo pacman -Syu
-#sudo pacman -S install brave-browser -y
-#yay -S brave-bin
+#yes | sudo pacman -S install brave-browser
+#yes | yay -S brave-bin
 
 ##################################################################################
 ##Install file manager
 
-sudo pacman -S -y thunar
-#sudo pacman -S -y pcmanfm
-#sudo pacman -S -y nautilus
-#sudo pacman -S -y dolphin
+yes | sudo pacman -S thunar
+#yes | sudo pacman -S pcmanfm
+#yes | sudo pacman -S nautilus
+#yes | sudo pacman -S dolphin
 
 
 
 ##################################################################################
 ##Install Launcher
 
-sudo pacman -S -y rofi
-#sudo pacman -S -y wofi
-#sudo pacman -S -y dmenu
+yes | sudo pacman -S rofi
+#yes | sudo pacman -S wofi
+#yes | sudo pacman -S dmenu
 
 
 ##################################################################################
 ##Install editor
 
-sudo pacman -S -y geany
-sudo pacman -S -y vim
-#sudo pacman -S -y neovim
+yes | sudo pacman -S geany
+yes | sudo pacman -S vim
+#yes | sudo pacman -S neovim
 
 ## VS-CODE
 #sudo sudo pacman -S wget gpg
@@ -65,16 +65,16 @@ sudo pacman -S -y vim
 ##################################################################################
 ##Install wallpaper manager
 
-sudo pacman -S -y nitrogen
-sudo pacman -S -y feh
-#sudo pacman -S -y variety
+yes | sudo pacman -S nitrogen
+yes | sudo pacman -S feh
+#yes | sudo pacman -S variety
 
 ## Install GNOME SCREENSHOT TOOLS
-sudo sudo pacman -S -y shutter
+yes | sudo sudo pacman -S shutter
 
 ##################################################################################
 ##Install theme setting
-sudo pacman -S -y lxappearance
+yes | sudo pacman -S lxappearance
 
 ## Download Nordic Theme
 cd /usr/share/themes/
