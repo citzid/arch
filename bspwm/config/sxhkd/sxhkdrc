@@ -35,8 +35,8 @@ super + space
 	rofi -show run
 	
 # Screenshot
-print
-    ksnip
+prints
+    shutter
 
 # make sxhkd reload its configuration files:
 super + Escape
