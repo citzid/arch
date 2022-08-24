@@ -17,8 +17,9 @@ cd
 cd /home/$username
 mkdir -p Documents Downloads Music Pictures Videos
 
-#Create config firectory
-cd /home/$username/deb
+##################################################################################
+# Create config firectory
+cd /home/$username/arch/sh
 
 ## Copy resources file
 cp -R bg /home/$username/.config
@@ -26,3 +27,6 @@ cp -R fonts /home/$username/.config
 cp -R icons /home/$username/.config
 cp -R grubthemes /home/$username/.config
 
+cd /home/$username/.config/icons
+tar xvzf /home/$username/.config/icons/volantes_light_cursors.tar.gz -C ~/.local/share/icons/theme/cursors
+#mv /home/$username/.config/icons/volantes_light_cursors /.local/share/icons/
