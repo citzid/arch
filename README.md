@@ -67,9 +67,9 @@
 4. super + q = kill (close app) <br />
 5. super + space = rofi launcher <br />
 6. ctrl + shift + r = restart WM <br />
-7. ctrl + shift + c = reload config<br /><br /><br />
-<br />
+7. ctrl + shift + c = reload config <br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # NOTE : 
 
  - if error "user is not in the sudoers file". <br /> 
