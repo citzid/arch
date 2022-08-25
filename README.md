@@ -57,6 +57,7 @@
 
 
 <br />
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### key bind : 
@@ -67,7 +68,7 @@
 5. super + space = rofi launcher <br />
 6. ctrl + shift + r = restart WM <br />
 7. ctrl + shift + c = reload config<br /><br /><br />
-<br /><br /><br />
+<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # NOTE : 
 
@@ -118,7 +119,9 @@ Then save your profile. <br />
 5. write in last line <br />
 ```bash ~/.screenlayout/(your profilename).sh```
 
-DONE... you can start build your own bspwm ARCH after this.<br />
+DONE... you can start build your own bspwm ARCH after this.
+<br />
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 NB : please open issue if you have some problems
